@@ -7,6 +7,10 @@ public class TEstt {
 	public void sub(){
 System.out.println(20-10);
 	}
+	public void multi() {
+		System.out.println(30*10);
+	}
+	
 public static void main(String[] args) {
 	
 }
